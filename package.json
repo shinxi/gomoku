@@ -1,0 +1,22 @@
+{
+  "name": "gomoku",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinxi/gomoku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinxi/gomoku/issues"
+  },
+  "homepage": "https://github.com/shinxi/gomoku#readme",
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}
